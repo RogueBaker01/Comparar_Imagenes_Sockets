@@ -13,7 +13,7 @@ Además, se incorpora **cifrado simétrico con Fernet** para asegurar la transmi
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 Comparar_Imagenes_Sockets/
 ├── imagenes/ # Carpeta con imágenes de referencia
@@ -26,7 +26,7 @@ Comparar_Imagenes_Sockets/
 
 ---
 
-## ⚙️ Instalación
+##  Instalación
 
 Clonar este repositorio:
 
@@ -35,5 +35,8 @@ git clone https://github.com/RogueBaker01/Comparar_Imagenes_Sockets.git
 cd Comparar_Imagenes_Sockets
 
 ```
-Instalar dependecias pip install numpy opencv matplotlib scikit-image cryptography
+Instalar dependecias 
+
+```bash
+pip install numpy opencv matplotlib scikit-image cryptography
 

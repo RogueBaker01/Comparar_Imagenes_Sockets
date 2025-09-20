@@ -15,16 +15,17 @@ Además, se incorpora **cifrado simétrico con Fernet** para asegurar la transmi
 
 ## Estructura del proyecto
 
+```bash
 Comparar_Imagenes_Sockets/
-├── imagenes/ # Carpeta con imágenes de referencia
-├── keys/ # Carpeta donde se guardan las llaves de cifrado
-├── Proyecto_Servidor.py # Código del servidor
-├── Proyecto_cliente.py # Cliente principal
+├── imagenes/              # Carpeta con imágenes de referencia
+├── keys/                  # Carpeta donde se guardan las llaves de cifrado
+├── Proyecto_Servidor.py   # Código del servidor
+├── Proyecto_cliente.py    # Cliente principal
 ├── Proyecto_cliente_st.py # Cliente alternativo / pruebas
-├── imagen_recibida.jpg # Imagen recibida (temporal)
-└── requirements.txt # Dependencias del proyecto
-
+├── imagen_recibida.jpg    # Imagen recibida (temporal)
+└── requirements.txt       # Dependencias del proyecto
 ---
+```
 
 ##  Instalación
 
